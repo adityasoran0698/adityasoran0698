@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hi👋, My name is Aditya Soran.<br>I'm a Software Developer focused on building modern full-stack applications and integrating Generative AI into real-world products. I work primarily with the MERN stack and enjoy developing intelligent systems powered by LLMs, RAG pipelines, and modern AI frameworks.<br><br>My recent work includes building AI-driven applications such as AyurSutra, an AI-powered Ayurveda therapy booking platform developed as part of the Smart India Hackathon initiative. Through my projects, I aim to combine scalable backend systems, responsive user interfaces, and intelligent AI features to solve practical problems.<br><br>I have experience working with technologies like MongoDB, Express.js, React.js, Node.js, Python, FastAPI, LangChain, OpenAI APIs, HuggingFace, and vector databases. I also have a strong foundation in data structures, REST API development, and system design fundamentals.<br><br>Currently, I am exploring advanced RAG architectures, agentic AI systems, and ways to build production-ready AI applications that integrate seamlessly with modern web platforms.<br><br>I’m always interested in collaborating on projects related to AI-powered applications, full-stack development, and innovative problem solving.
+Hi 👋, I'm Aditya Soran.  
+I'm a Software Developer passionate about building **modern full-stack applications** and integrating **Generative AI into real-world products**.
+
+🔭 Currently building  
+AI-powered full-stack applications using the **MERN Stack and Large Language Models**, focusing on integrating **Generative AI features into practical web platforms**.
+
+👯 Open to collaborate on  
+Projects involving **LLM applications, RAG systems, AI-powered web apps, and modern full-stack development**.
+
+🤝 Looking for guidance in  
+Building **scalable AI systems, advanced RAG pipelines, and Agentic AI workflows for production-ready applications**.
+
+🌱 Currently exploring  
+**LangChain ecosystems, vector databases, Agentic AI architectures, and efficient deployment of AI-powered applications**.
+
+💬 Ask me about  
+**MERN stack development, REST API design, authentication systems, LLM integrations, and building AI-powered web applications**.
+
+⚡ Fun fact  
+I enjoy transforming **real-world problems into AI-powered solutions**, like **AyurSutra — a smart Ayurveda therapy booking platform built for Smart India Hackathon (SIH)**.
 
 
 ## 🌐 Socials:
