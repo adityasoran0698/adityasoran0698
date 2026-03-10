@@ -90,7 +90,7 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 <img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true" />
 </td>
 <td>
-<img src="https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img src="https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" />
 </td>
 </tr>
 </table>
@@ -116,13 +116,3 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=adityasoran0698&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
-
-
