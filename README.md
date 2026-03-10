@@ -89,7 +89,8 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 
 <br/>
 
-![](https://github-readme-stats-self-delta-74.vercel.app/api?username=adityasoran0698&theme=tokyonight&hide_border=true&show_icons=true&count_private=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=adityasoran0698&theme=tokyo-night&hide_border=true&area=true)
+
 &nbsp;
 ![](https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=compact)
 
@@ -104,3 +105,4 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
+
