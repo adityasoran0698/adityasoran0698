@@ -34,18 +34,21 @@ I enjoy transforming **real-world problems into AI-powered solutions**, like **A
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasoran0698&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ADITYA%20SORAN&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Developer%20%7C%20Open%20Source%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff"/>
 
-<img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;Building+cool+things+with+code+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
 
 ---
 
-### 🏆 Trophies
+### 📊 GitHub Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityasoran0698&theme=tokyonight&no-frame=true&margin-w=10&column=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasoran0698&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&card_width=400"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&theme=tokyonight&hide_border=true&card_width=400"/>
+
+<img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true" />
 
 ---
 
@@ -53,4 +56,3 @@ I enjoy transforming **real-world problems into AI-powered solutions**, like **A
 
 </div>
 
-</div>
