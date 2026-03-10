@@ -86,11 +86,13 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityasoran0698&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityasoran0698&theme=tokyonight&hide_border=true" width="90%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityasoran0698&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityasoran0698&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityasoran0698&theme=tokyonight" width="32%"/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityasoran0698&theme=tokyonight&hide_border=true" width="40%"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityasoran0698&theme=tokyonight&hide_border=true" width="40%"/>
 
 <br/>
 
@@ -105,7 +107,5 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 [![](https://visitcount.itsvg.in/api?id=adityasoran0698&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
 
 </div>
