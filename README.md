@@ -86,17 +86,13 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityasoran0698&theme=tokyonight&hide_border=true" width="90%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityasoran0698&theme=tokyonight&hide_border=true" width="40%"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityasoran0698&theme=tokyonight&hide_border=true" width="40%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&card_width=600" />
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=adityasoran0698&theme=tokyonight&hide_border=true&show_icons=true&count_private=false)
+&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
@@ -105,6 +101,10 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=adityasoran0698&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
