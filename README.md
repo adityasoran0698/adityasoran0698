@@ -86,9 +86,9 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasoran0698&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&card_width=420"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityasoran0698&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&theme=tokyonight&hide_border=true&card_width=320"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
