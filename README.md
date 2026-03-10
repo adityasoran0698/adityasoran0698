@@ -81,7 +81,6 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,9 +89,9 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=adityasoran0698&theme=tokyonight&hide_border=true&show_icons=true&count_private=false)
+![](https://github-readme-stats-self-delta-74.vercel.app/api?username=adityasoran0698&theme=tokyonight&hide_border=true&show_icons=true&count_private=false)
 &nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
@@ -101,10 +100,6 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=adityasoran0698&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
