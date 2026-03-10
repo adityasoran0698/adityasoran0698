@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,19,9,20,15&height=220&section=header&text=ADITYA%20SORAN&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=19&descAlignY=60&descColor=c9b8ff"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
 
@@ -17,15 +19,19 @@
 
 <div align="center">
 
-Hi! I'm **Aditya Soran**, a passionate **Full Stack Developer** & **AI Engineer** who loves building modern, intelligent web applications.
+<p>Hi! I'm <strong>Aditya Soran</strong>, a passionate <strong>Full Stack Developer</strong> & <strong>AI Engineer</strong> who loves building modern, intelligent web applications.</p>
 
-I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into real-world products — turning complex ideas into polished, production-ready apps.
+<p>I specialize in the <strong>MERN Stack</strong> and integrating <strong>Generative AI / LLMs</strong> into real-world products — turning complex ideas into polished, production-ready apps.</p>
 
 <br/>
 
-🔭 &nbsp;**Building** AI-powered MERN + LLM apps &nbsp;|&nbsp; 👯 &nbsp;**Open to** RAG systems & AI web apps &nbsp;|&nbsp; 🌱 &nbsp;**Exploring** LangChain, Vector DBs, Agentic AI
+| 🔭 Currently Building | 👯 Open to Collaborate | 🌱 Currently Exploring |
+|:---:|:---:|:---:|
+| AI-powered MERN + LLM apps | RAG systems & AI web apps | LangChain · Vector DBs · Agentic AI |
 
-💬 &nbsp;**Ask me about** MERN, REST APIs, LLM integration &nbsp;|&nbsp; ⚡ &nbsp;**Passion** — Turning real problems into AI solutions
+| 💬 Ask Me About | ⚡ My Passion |
+|:---:|:---:|
+| MERN · REST APIs · LLM Integration | Turning real problems into AI solutions |
 
 <br/>
 
@@ -60,16 +66,16 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 **🤖 AI / ML & LLM Stack**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI%20Models-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge&logo=autogen&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-00897B?style=for-the-badge&logo=openai&logoColor=white)
-![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG%20Systems-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20Databases-FF4154?style=for-the-badge&logo=pinecone&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-FF4154?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Open Source Models](https://img.shields.io/badge/Open%20Source%20Models-22C55E?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Closed Source Models](https://img.shields.io/badge/Closed%20Source%20Models-1D4ED8?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -94,9 +100,9 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&card_width=420" height="195"/>
-&nbsp;
-<img src="https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=8" height="195"/>
+<img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&card_width=420" height="200"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=8" height="200"/>
 
 <br/><br/>
 
@@ -116,6 +122,6 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 
 [![](https://visitcount.itsvg.in/api?id=adityasoran0698&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,19,9,20,15&height=120&section=footer"/>
 
 </div>
