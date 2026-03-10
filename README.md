@@ -89,7 +89,7 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&border_radius=10" />&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&border_radius=10" />
+<img height="200em" src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&border_radius=10" />&nbsp;&nbsp;<img height="200em" src="https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=donut&langs_count=6&border_radius=10&card_width=400" />
 
 </div>
 
