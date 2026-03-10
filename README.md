@@ -89,10 +89,17 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 
 <br/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=adityasoran0698&theme=tokyo-night&hide_border=true&area=true)
+![](https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-&nbsp;
-![](https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=compact)
+<br/>
+
+### 🐍 Watch the Snake Eat My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -105,4 +112,5 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
+
 
