@@ -15,16 +15,31 @@
 
 ## 💫 About Me
 
-```yaml
-name: Aditya Soran
-role: Full Stack Developer & AI Engineer
-stack: MERN + LLMs + LangChain
-focus: Generative AI × Real-World Web Products
-currently_building: AI-powered full-stack apps with LLM integrations
-open_to: LLM apps · RAG systems · AI-powered web apps · Full-stack collab
-exploring: LangChain · Vector DBs · Agentic AI · RAG Pipelines
-fun_fact: Built AyurSutra — AI Ayurveda booking platform @ Smart India Hackathon 🏆
-```
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Who Am I?
+Hi! I'm **Aditya Soran**, a passionate **Full Stack Developer** & **AI Engineer** who loves building modern, intelligent web applications.
+
+I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into real-world products — turning complex ideas into polished, production-ready apps.
+
+> 🏆 **Built AyurSutra** — an AI-powered Ayurveda therapy booking platform at **Smart India Hackathon (SIH)**
+
+</td>
+<td width="50%">
+
+### 🚀 Quick Facts
+
+🔭 &nbsp;**Building** — AI-powered MERN + LLM apps  
+👯 &nbsp;**Collaborating on** — RAG systems & AI web apps  
+🌱 &nbsp;**Exploring** — LangChain, Vector DBs, Agentic AI  
+💬 &nbsp;**Ask me about** — MERN, REST APIs, LLM integration  
+⚡ &nbsp;**Passion** — Turning real problems into AI solutions  
+
+</td>
+</tr>
+</table>
 
 ---
 
