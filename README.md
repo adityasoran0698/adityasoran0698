@@ -15,33 +15,21 @@
 
 ## 💫 About Me
 
-<div align="center">
+Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building modern full-stack applications and integrating Generative AI into real-world products.
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   Hi! I'm Aditya Soran — Full Stack Developer & AI Engineer         ║
-║   who loves building modern, intelligent web applications.           ║
-║                                                                      ║
-║   I specialize in the MERN Stack and integrating                    ║
-║   Generative AI / LLMs into real-world products —                   ║
-║   turning complex ideas into polished, production-ready apps.       ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+🔭 &nbsp;Currently building AI-powered full-stack applications using the **MERN Stack and Large Language Models**, focusing on integrating **Generative AI features into real-world web platforms**.
 
-| 🔭 **Building** | AI-powered MERN + LLM apps |
-|:-:|:-|
-| 👯 **Collaborating** | RAG systems & AI web apps |
-| 🌱 **Exploring** | LangChain, Vector DBs, Agentic AI |
-| 💬 **Ask me about** | MERN, REST APIs, LLM integration |
-| ⚡ **Passion** | Turning real problems into AI solutions |
-| 🏆 **Achievement** | Built **AyurSutra** at Smart India Hackathon (SIH) |
+👯 &nbsp;Open to collaborate on projects related to **LLM applications, RAG systems, AI-powered web apps, and modern full-stack development**.
 
-</div>
+🤝 &nbsp;Looking for guidance in designing **scalable AI systems, advanced RAG pipelines, and Agentic AI workflows for production-level applications**.
+
+🌱 &nbsp;Actively exploring **LangChain ecosystems, vector databases, Agentic AI architectures, and efficient ways to deploy AI-powered applications**.
+
+💬 &nbsp;Happy to talk about **MERN development, REST API design, authentication systems, LLM integrations, and building AI features inside web apps**.
+
+⚡ &nbsp;Fun fact — I enjoy turning **real-world problems into AI-powered products**, like **AyurSutra** — a smart Ayurveda therapy booking platform built for **Smart India Hackathon**.
 
 ---
-
 ## 💻 Tech Stack
 
 **🎨 Frontend**
