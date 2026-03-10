@@ -80,19 +80,43 @@ I specialize in the **MERN Stack** and integrating **Generative AI / LLMs** into
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
----
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&card_width=400" height="195"/>
-&nbsp;&nbsp;
-![](https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=donut&langs_count=8)
+
+<table>
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true" />
+</td>
+<td>
+<img src="https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</td>
+</tr>
+</table>
+
 <br/>
-🐍 Watch the Snake Eat My Contributions
+
+### 🐍 Watch the Snake Eat My Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg" />
 </picture>
+
 </div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=adityasoran0698&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
+
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=adityasoran0698&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
