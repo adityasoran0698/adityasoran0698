@@ -89,9 +89,10 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 
 <div align="center">
 
-<img height="200em" src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&border_radius=10" />&nbsp;&nbsp;<img height="200em" src="https://github-readme-stats-self-delta-74.vercel.app/api/top-langs/?username=adityasoran0698&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&border_radius=10" />
+<img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats" />
 
 </div>
+
 <br/>
 
 <div align="center">
@@ -112,6 +113,6 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 
 [![](https://visitcount.itsvg.in/api?id=adityasoran0698&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6,8,10,12,14,16,18,20,24,26,28,30&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer"/>
 
 </div>
