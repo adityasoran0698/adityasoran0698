@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
 
