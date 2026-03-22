@@ -7,7 +7,7 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=ffffff"/>
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=fff"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff" alt="Header"/>
 </picture>
 
@@ -18,7 +18,7 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8"/>
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG"/>
 </picture>
 
@@ -115,6 +115,7 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
     srcset="https://githubstatscard.vercel.app/api/stats?theme=light"/>
   <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
 </picture>
+
 </div>
 
 <br/>
@@ -144,7 +145,7 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
   <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer" alt="Footer"/>
 </picture>
 
