@@ -117,19 +117,13 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
   <source media="(prefers-color-scheme: dark)"
     srcset="https://githubstatscard.vercel.app/api/stats"/>
   <source media="(prefers-color-scheme: light)"
-   srcset="https://githubstatscard.vercel.app/api/stats"/>
+    srcset="https://github-readme-stats.vercel.app/api?username=adityasoran0698&show_icons=true&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=9333EA&text_color=1E293B&ring_color=7C3AED"/>
+  <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
 </picture>
 
 
 
 <br/><br/>
-
-<!-- ╔══════════════════════════════════════════════════╗ -->
-<!--   TOP LANGUAGES                                     -->
-<!--   Dark  → tokyonight                                -->
-<!--   Light → light purple bg + purple titles           -->
-<!-- ╚══════════════════════════════════════════════════╝ -->
-
 </div>
 
 <br/>
