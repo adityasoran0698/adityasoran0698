@@ -108,41 +108,6 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════╗ -->
-<!--   STATS CARD                                        -->
-<!--   Dark  → your original githubstatscard (unchanged) -->
-<!--   Light → github-readme-stats, vibrant purple theme -->
-<!-- ╚══════════════════════════════════════════════════╝ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://githubstatscard.vercel.app/api/stats"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=adityasoran0698&show_icons=true&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=9333EA&text_color=1E293B&ring_color=7C3AED"/>
-  <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
-</picture>
-
-<br/><br/>
-
-<!-- ╔══════════════════════════════════════════════════╗ -->
-<!--   STREAK STATS                                      -->
-<!--   Dark  → tokyonight + blue ring                    -->
-<!--   Light → light purple bg + purple ring + amber fire-->
-<!-- ╚══════════════════════════════════════════════════╝ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=adityasoran0698&hide_border=true&background=F5F3FF&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=1E293B&dates=64748B&currStreakNum=9333EA&sideNums=9333EA"/>
-  <img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</picture>
-
-<br/><br/>
-
-<!-- ╔══════════════════════════════════════════════════╗ -->
-<!--   TOP LANGUAGES                                     -->
-<!--   Dark  → tokyonight                                -->
-<!--   Light → light purple bg + purple titles           -->
-<!-- ╚══════════════════════════════════════════════════╝ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://githubstatscard.vercel.app/api/stats"/>
@@ -150,7 +115,6 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
     srcset="https://githubstatscard.vercel.app/api/stats?theme=light"/>
   <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
 </picture>
-
 </div>
 
 <br/>
