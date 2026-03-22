@@ -7,7 +7,7 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=1a0533&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=3b0764"/>
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=ffffff"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff" alt="Header"/>
 </picture>
 
@@ -144,7 +144,7 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
   <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer"/>
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer" alt="Footer"/>
 </picture>
 
