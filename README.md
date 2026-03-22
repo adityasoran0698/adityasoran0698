@@ -169,4 +169,3 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 </picture>
 
 </div>
-
