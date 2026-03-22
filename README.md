@@ -153,8 +153,8 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
   <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer" alt="Footer"/>
+  srcset="https://github-readme-stats.vercel.app/api?username=adityasoran0698&show_icons=true&hide_border=false&bg_color=EDE9FE&title_color=5B21B6&icon_color=7C3AED&text_color=1E1B4B&border_color=7C3AED&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
+  <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
 </picture>
 
 </div>
