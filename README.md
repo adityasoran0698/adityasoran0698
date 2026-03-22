@@ -145,10 +145,10 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 <!-- ╚══════════════════════════════════════════════════╝ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+    srcset="https://githubstatscard.vercel.app/api/stats"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&text_color=1E293B"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
+    srcset="https://githubstatscard.vercel.app/api/stats?theme=light"/>
+  <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
 </picture>
 
 </div>
