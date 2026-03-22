@@ -1,8 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=0a0a23&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=0550AE"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff" alt="Header"/>
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       TYPING SVG                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0550AE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG"/>
+</picture>
 
 <br/>
 
@@ -30,6 +44,7 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 ⚡ &nbsp;Fun fact — I enjoy turning **real-world problems into AI-powered products**, like **AyurSutra** — a smart Ayurveda therapy booking platform built for **Smart India Hackathon**.
 
 ---
+
 ## 💻 Tech Stack
 
 **🎨 Frontend**
@@ -89,7 +104,38 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 
 <div align="center">
 
-<img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS CARD                     -->
+<!-- Dark → your original githubstatscard URL                   -->
+<!-- Light → github-readme-stats with light colours             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubstatscard.vercel.app/api/stats"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adityasoran0698&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=0550AE&icon_color=0550AE&text_color=24292f&ring_color=0550AE"/>
+  <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
+</picture>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      STREAK STATS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=adityasoran0698&theme=default&hide_border=true&background=f6f8fa&ring=0550AE&fire=D14836&currStreakLabel=0550AE&sideLabels=24292f&dates=57606a"/>
+  <img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</picture>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TOP LANGUAGES                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=0550AE&text_color=24292f"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
+</picture>
 
 </div>
 
@@ -100,9 +146,9 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 ### 🐍 Watch the Snake Eat My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -113,6 +159,14 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 
 [![](https://visitcount.itsvg.in/api?id=adityasoran0698&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       FOOTER BANNER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer" alt="Footer"/>
+</picture>
 
 </div>
+
