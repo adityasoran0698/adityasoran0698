@@ -117,7 +117,8 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
   <source media="(prefers-color-scheme: dark)"
     srcset="https://githubstatscard.vercel.app/api/stats"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://githubstatscard.vercel.app/api/stats"/>
+     srcset="https://github-readme-stats.vercel.app/api?username=adityasoran0698&show_icons=true&hide_border=false&bg_color=EDE9FE&title_color=5B21B6&icon_color=7C3AED&text_color=1E1B4B&border_color=7C3AED&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
+  <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
 </picture>
 
 
