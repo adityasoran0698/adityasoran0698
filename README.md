@@ -117,13 +117,40 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
   <source media="(prefers-color-scheme: dark)"
     srcset="https://githubstatscard.vercel.app/api/stats"/>
   <source media="(prefers-color-scheme: light)"
-     srcset="https://github-readme-stats.vercel.app/api?username=adityasoran0698&show_icons=true&hide_border=false&bg_color=EDE9FE&title_color=5B21B6&icon_color=7C3AED&text_color=1E1B4B&border_color=7C3AED&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
+    srcset="https://github-readme-stats.vercel.app/api?username=adityasoran0698&show_icons=true&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&icon_color=9333EA&text_color=1E293B&ring_color=7C3AED"/>
   <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
 </picture>
 
+<br/><br/>
 
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--   STREAK STATS                                      -->
+<!--   Dark  → tokyonight + blue ring                    -->
+<!--   Light → light purple bg + purple ring + amber fire-->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=adityasoran0698&hide_border=true&background=F5F3FF&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=1E293B&dates=64748B&currStreakNum=9333EA&sideNums=9333EA"/>
+  <img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</picture>
 
 <br/><br/>
+
+<!-- ╔══════════════════════════════════════════════════╗ -->
+<!--   TOP LANGUAGES                                     -->
+<!--   Dark  → tokyonight                                -->
+<!--   Light → light purple bg + purple titles           -->
+<!-- ╚══════════════════════════════════════════════════╝ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&hide_border=true&bg_color=F5F3FF&title_color=7C3AED&text_color=1E293B"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasoran0698&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
+</picture>
+
 </div>
 
 <br/>
@@ -133,11 +160,9 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 ### 🐍 Watch the Snake Eat My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://githubstatscard.vercel.app/api/stats"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://githubstatscard.vercel.app/api/stats?theme=light"/>
-  <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
