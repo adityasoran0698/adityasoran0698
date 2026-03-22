@@ -128,13 +128,7 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 <!--   Dark  → tokyonight + blue ring                    -->
 <!--   Light → light purple bg + purple ring + amber fire-->
 <!-- ╚══════════════════════════════════════════════════╝ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=adityasoran0698&hide_border=true&background=F5F3FF&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=1E293B&dates=64748B&currStreakNum=9333EA&sideNums=9333EA"/>
-  <img src="https://streak-stats.demolab.com?user=adityasoran0698&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</picture>
+
 
 <br/><br/>
 
