@@ -7,7 +7,7 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D3B2E%2C50%3A0B5345%2C100%3A117A65&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=A9DFBF"/>
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=fff&fontAlignX=50&reversal=false&stroke=00FF7F&strokeWidth=0"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff" alt="Header"/>
 </picture>
 
@@ -18,7 +18,7 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=117A65&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8"/>
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=059669&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;MERN+Stack+%2B+Generative+AI+Developer+%F0%9F%A4%96;Building+AI-Powered+Web+Apps+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG"/>
 </picture>
 
@@ -145,7 +145,7 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
   <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D3B2E%2C50%3A0B5345%2C100%3A117A65&height=120&section=footer"/>
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=120&section=footer" alt="Footer"/>
 </picture>
 
