@@ -133,9 +133,11 @@ Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building moder
 ### 🐍 Watch the Snake Eat My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/adityasoran0698/adityasoran0698/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://githubstatscard.vercel.app/api/stats"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://githubstatscard.vercel.app/api/stats?theme=light"/>
+  <img src="https://githubstatscard.vercel.app/api/stats" alt="GitHub Stats"/>
 </picture>
 
 </div>
