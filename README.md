@@ -7,7 +7,7 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff"/>
   <source media="(prefers-color-scheme: light)"
-  srcset="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient&customColorList=0:064E3B,50:065F46,100:047857&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=fff&fontAlignX=50&reversal=false&stroke=00FF7F&strokeWidth=0"/>
+  srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:064E3B,50:065F46,100:047857&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=fff&fontAlignX=50&reversal=false&stroke=00FF7F&strokeWidth=0"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Generative%20AI%20%7C%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff" alt="Header"/>
 </picture>
 
