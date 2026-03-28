@@ -31,23 +31,13 @@
 
 ---
 
-## 💫 About Me
 
-Hi 👋, I'm **Aditya Soran** — a Software Developer focused on building modern full-stack applications and integrating Generative AI into real-world products.
+## About Me
+I'm Aditya Soran, a Software Developer specializing in full-stack web development and the integration of Generative AI into production-grade applications.
+I currently work with the MERN Stack and Large Language Models, building platforms where AI features are first-class citizens — not afterthoughts. My recent work includes AyurSutra, an AI-powered Ayurveda therapy management platform built for Smart India Hackathon, which combines NLP-driven wellness scoring, intelligent slot allocation, and multi-channel automated notifications.
+My technical interests span LLM integrations, Retrieval-Augmented Generation (RAG), Agentic AI architectures, and vector databases. I'm actively exploring the LangChain ecosystem and scalable patterns for deploying AI-powered applications in real-world environments.
+I'm open to collaborating on projects at the intersection of modern web development and applied AI — particularly LLM applications, RAG pipelines, and AI-native full-stack products.
 
-🔭 &nbsp;Currently building AI-powered full-stack applications using the **MERN Stack and Large Language Models**, focusing on integrating **Generative AI features into real-world web platforms**.
-
-👯 &nbsp;Open to collaborate on projects related to **LLM applications, RAG systems, AI-powered web apps, and modern full-stack development**.
-
-🤝 &nbsp;Looking for guidance in designing **scalable AI systems, advanced RAG pipelines, and Agentic AI workflows for production-level applications**.
-
-🌱 &nbsp;Actively exploring **LangChain ecosystems, vector databases, Agentic AI architectures, and efficient ways to deploy AI-powered applications**.
-
-💬 &nbsp;Happy to talk about **MERN development, REST API design, authentication systems, LLM integrations, and building AI features inside web apps**.
-
-⚡ &nbsp;Fun fact — I enjoy turning **real-world problems into AI-powered products**, like **AyurSutra** — a smart Ayurveda therapy booking platform built for **Smart India Hackathon**.
-
----
 
 ## 💻 Tech Stack
 
