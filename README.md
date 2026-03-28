@@ -32,7 +32,7 @@
 ---
 
 
-## About Me
+## ✨ About Me
 I'm Aditya Soran, a Software Developer specializing in full-stack web development and the integration of Generative AI into production-grade applications.
 I currently work with the MERN Stack and Large Language Models, building platforms where AI features are first-class citizens — not afterthoughts. My recent work includes AyurSutra, an AI-powered Ayurveda therapy management platform built for Smart India Hackathon, which combines NLP-driven wellness scoring, intelligent slot allocation, and multi-channel automated notifications.
 My technical interests span LLM integrations, Retrieval-Augmented Generation (RAG), Agentic AI architectures, and vector databases. I'm actively exploring the LangChain ecosystem and scalable patterns for deploying AI-powered applications in real-world environments.
