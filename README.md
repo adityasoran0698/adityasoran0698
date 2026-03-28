@@ -32,7 +32,7 @@
 ---
 
 
-## About Me
+## 💫 About Me
 
 I'm **Aditya Soran**, a final-year Information Technology student at ABES Institute of Technology, Ghaziabad, specializing in full-stack development and applied Generative AI.
 
