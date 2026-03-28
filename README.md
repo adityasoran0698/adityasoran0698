@@ -32,11 +32,19 @@
 ---
 
 
-## ✨ About Me
-I'm Aditya Soran, a Software Developer specializing in full-stack web development and the integration of Generative AI into production-grade applications.
-I currently work with the MERN Stack and Large Language Models, building platforms where AI features are first-class citizens — not afterthoughts. My recent work includes AyurSutra, an AI-powered Ayurveda therapy management platform built for Smart India Hackathon, which combines NLP-driven wellness scoring, intelligent slot allocation, and multi-channel automated notifications.
-My technical interests span LLM integrations, Retrieval-Augmented Generation (RAG), Agentic AI architectures, and vector databases. I'm actively exploring the LangChain ecosystem and scalable patterns for deploying AI-powered applications in real-world environments.
-I'm open to collaborating on projects at the intersection of modern web development and applied AI — particularly LLM applications, RAG pipelines, and AI-native full-stack products.
+## About Me
+
+I'm **Aditya Soran**, a final-year Information Technology student at ABES Institute of Technology, Ghaziabad, specializing in full-stack development and applied Generative AI.
+
+I build production-ready systems at the intersection of modern web development and LLM engineering — working with **LangChain, OpenAI, Gemini, FastAPI, and the MERN stack**. My focus is on real-world AI applications: RAG pipelines, Agentic AI workflows, vector databases (FAISS, Chroma), and embedding-based semantic retrieval.
+
+Recent work includes **AyurSutra**, an AI-powered Ayurveda therapy platform built for **Smart India Hackathon 2024** under the Ministry of AYUSH, and a **YouTube Chatbot** powered by a full end-to-end RAG pipeline using LangChain, OpenAI embeddings, and ChromaDB. I also hold an **80-hour AI & ML certification** from an NVIDIA Partner institute and have a **research paper accepted at I3CSET-2025**, published under Taylor & Francis (Scopus-indexed).
+
+Open to collaborating on **LLM applications, RAG systems, Agentic AI workflows, and AI-native full-stack products**.
+
+---
+
+📧 adityasoran@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/aditya-soran-297314361) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/adityasoran0698)
 
 
 ## 💻 Tech Stack
