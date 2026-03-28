@@ -44,7 +44,6 @@ Open to collaborating on **LLM applications, RAG systems, Agentic AI workflows, 
 
 ---
 
-📧 adityasoran@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/aditya-soran-297314361) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/adityasoran0698)
 
 
 ## 💻 Tech Stack
