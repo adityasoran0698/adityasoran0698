@@ -16,7 +16,7 @@
 <!-- ╚══════════════════════════════════════════════════╝ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;AI+Engineer+%40+Diglip7+Tech+%F0%9F%A4%96;Building+Agentic+AI+%2B+LLM+Systems+%F0%9F%9A%80;LangGraph+%2B+LangChain+%2B+FastAPI+%E2%9A%A1;Always+learning%2C+always+shipping+%E2%9C%A8"/>
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;Building+Agentic+AI+%2B+LLM+Systems+%F0%9F%9A%80;LangGraph+%2B+LangChain+%2B+FastAPI+%E2%9A%A1;Always+learning%2C+always+shipping+%E2%9C%A8"/>
   <source media="(prefers-color-scheme: light)"
     srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=059669&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;AI+Engineer+%40+Diglip7+Tech+%F0%9F%A4%96;Building+Agentic+AI+%2B+LLM+Systems+%F0%9F%9A%80;LangGraph+%2B+LangChain+%2B+FastAPI+%E2%9A%A1;Always+learning%2C+always+shipping+%E2%9C%A8"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;AI+Engineer+%40+Diglip7+Tech+%F0%9F%A4%96;Building+Agentic+AI+%2B+LLM+Systems+%F0%9F%9A%80;LangGraph+%2B+LangChain+%2B+FastAPI+%E2%9A%A1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG"/>
