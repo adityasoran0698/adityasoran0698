@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30" role="img" aria-label="divider"><title>divider</title><style>
+@keyframes rise{from{transform:translateY(8px)}to{transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes ping{0%{transform:scale(.7);opacity:.7}100%{transform:scale(2.3);opacity:0}}
+@keyframes bob{50%{transform:translateY(-4px)}}
+.rise{animation:rise 1.4s cubic-bezier(.22,1,.36,1) both}
+.fade{animation:fade 2s ease both}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 3.2s ease-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><filter id="soft" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#3F8F6E" stop-opacity="0"/><stop offset=".3" stop-color="#3F8F6E" stop-opacity=".5"/><stop offset=".7" stop-color="#4F6FA8" stop-opacity=".5"/><stop offset="1" stop-color="#7562B8" stop-opacity="0"/></linearGradient></defs><rect y="14.5" width="1200" height="1" fill="url(#l)"/><path d="M600 9l5 6-5 6-5-6z" fill="#F5F8F6" stroke="#3F8F6E"/><circle r="2.6" cy="15" fill="#4F6FA8" filter="url(#soft)"><animate attributeName="cx" values="160;1040;160" dur="14s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle></svg>
