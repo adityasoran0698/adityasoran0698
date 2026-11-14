@@ -5,10 +5,10 @@
 <!-- ╚══════════════════════════════════════════════════╝ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Software%20Engineer&descSize=18&descAlignY=58&descColor=a0c4ff"/>
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20LLM%20Systems&descSize=18&descAlignY=58&descColor=a0c4ff"/>
   <source media="(prefers-color-scheme: light)"
-  srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Software%20Engineer&descSize=18&descAlignY=58&descColor=fff&fontAlignX=50&reversal=false&stroke=00FF7F&strokeWidth=0"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff" alt="Header"/>
+  srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20LLM%20Systems&descSize=18&descAlignY=58&descColor=fff&fontAlignX=50&reversal=false&stroke=00FF7F&strokeWidth=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=ADITYA%20SORAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20LLM%20Systems&descSize=18&descAlignY=58&descColor=a0c4ff" alt="Header"/>
 </picture>
 
 <!-- ╔══════════════════════════════════════════════════╗ -->
@@ -16,10 +16,10 @@
 <!-- ╚══════════════════════════════════════════════════╝ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;Building+Agentic+AI+%2B+LLM+Systems+%F0%9F%9A%80;LangGraph+%2B+LangChain+%2B+FastAPI+%E2%9A%A1;Always+learning%2C+always+shipping+%E2%9C%A8"/>
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;AI%2FML+Engineer+%40+Recklabs+%F0%9F%A4%96;Building+Agentic+AI+%2B+LLM+Systems+%F0%9F%9A%80;LangGraph+%2B+LangChain+%2B+FastAPI+%E2%9A%A1;Always+learning%2C+always+shipping+%E2%9C%A8"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=059669&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;Building+Agentic+AI+%2B+LLM+Systems+%F0%9F%9A%80;LangGraph+%2B+LangChain+%2B+FastAPI+%E2%9A%A1;Always+learning%2C+always+shipping+%E2%9C%A8"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;AI+Engineer+%40+Diglip7+Tech+%F0%9F%A4%96;Building+Agentic+AI+%2B+LLM+Systems+%F0%9F%9A%80;LangGraph+%2B+LangChain+%2B+FastAPI+%E2%9A%A1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG"/>
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=059669&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;AI%2FML+Engineer+%40+Recklabs+%F0%9F%A4%96;Building+Agentic+AI+%2B+LLM+Systems+%F0%9F%9A%80;LangGraph+%2B+LangChain+%2B+FastAPI+%E2%9A%A1;Always+learning%2C+always+shipping+%E2%9C%A8"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;AI%2FML+Engineer+%40+Recklabs+%F0%9F%A4%96;Building+Agentic+AI+%2B+LLM+Systems+%F0%9F%9A%80;LangGraph+%2B+LangChain+%2B+FastAPI+%E2%9A%A1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG"/>
 </picture>
 
 <br/>
@@ -33,15 +33,34 @@
 
 ## 💫 About Me
 
-I'm **Aditya Soran**, an **AI Engineer** building production-grade LLM applications and agentic systems. I graduated with a B.Tech in Information Technology from ABES Institute of Technology, Ghaziabad, and I currently work at **Diglip7 Tech Pvt. Ltd.**, where I build **KAKA** — a multi-tenant WhatsApp AI appointment booking agent for **ZEVA**, a clinic management platform.
+I'm **Aditya Soran**, an **AI/ML Engineer** building production-grade LLM applications and agentic systems. I graduated with a B.Tech in Information Technology from ABES Institute of Technology, Ghaziabad, and I currently work at **Recklabs**, where I build **aisockt** — an enterprise AI platform that connects live business data from advertising, marketing, finance, sales and SEO tools to LLMs that answer questions and produce reports.
 
-I specialize in **Agentic AI workflows, RAG systems, and full-stack LLM engineering** — working daily with **LangGraph, LangChain, FastAPI, PostgreSQL, Redis, and BullMQ**, alongside the MERN stack for end-to-end product delivery. My work spans multi-tenant architecture, WhatsApp API integrations, real-time analytics dashboards, and production LLM orchestration.
+Before Recklabs, I worked at **Diglip7 Tech Pvt. Ltd.**, where I built **KAKA** — a multi-tenant WhatsApp AI appointment booking agent for **ZEVA**, a clinic management platform.
+
+I specialize in **Agentic AI workflows, RAG systems, and full-stack LLM engineering** — working with **LangGraph, LangChain, FastAPI, PostgreSQL, Redis, and BullMQ**, alongside the MERN stack for end-to-end product delivery. My work spans data connector integrations, model-agnostic AI interfaces, multi-tenant architecture, WhatsApp API integrations, real-time analytics dashboards, production LLM orchestration, and cloud deployment on AWS.
 
 Earlier projects include **AyurSutra**, an AI-powered Ayurveda therapy platform built for **Smart India Hackathon 2024** under the Ministry of AYUSH; **CuraLink**, an AI medical research assistant combining parallel API orchestration with FAISS-based semantic search (Certificate of Distinction, CuraLink Hackathon v2.0); and **VibeAI**, a personal AI agent with RAG, MCP server integration via FastMCP, and a custom streaming chat UI.
 
 I hold a **Scopus-indexed research paper** published at **I3CSET-2025** (Taylor & Francis) and completed an **80-hour AI/ML training program** through GI Ventures, an NVIDIA-certified partner.
 
 Open to collaborating on **LLM applications, agentic AI systems, RAG pipelines, and AI-native full-stack products**.
+
+---
+
+## 💼 Experience
+
+**🤖 AI/ML Engineer — Recklabs** &nbsp;·&nbsp; *2026 – Present*
+
+- Building **aisockt**, an enterprise AI platform over live business data
+- Integrated and tested third-party connectors end to end — Meta Ads, TikTok Ads, Snapchat Ads, X Ads, DV360, Canva, Brand24 and Branch
+- Designed a **model-agnostic presentation layer**: the selected LLM picks UI components based on the query and connector output, and code renders them in a fixed design — consistent answers across models, built to scale to 1,000+ connectors
+- Working on **branded enhanced reports** with selectable templates and logo upload
+- Deployed **aisockt.com** on AWS EC2 with Cloudflare DNS and SSL
+
+**💬 AI Engineer — Diglip7 Tech Pvt. Ltd.**
+
+- Built **KAKA**, a multi-tenant WhatsApp AI appointment booking agent for **ZEVA**, a clinic management platform
+- Multi-tenant architecture, WhatsApp API integrations, real-time analytics dashboards and production LLM orchestration with LangGraph, FastAPI, PostgreSQL, Redis and BullMQ
 
 ---
 
@@ -87,12 +106,14 @@ Open to collaborating on **LLM applications, agentic AI systems, RAG pipelines, 
 
 **🛠️ DevOps & Tools**
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
